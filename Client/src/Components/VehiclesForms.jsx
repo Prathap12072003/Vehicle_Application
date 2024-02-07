@@ -44,7 +44,7 @@ const VehiclesForms = () => {
               />
             </Form.Field>
             <Form.Field calssNamclassName="mb-1 lg:my-3  ">
-              <label className=" text-lg lg:text-xl">VehicleModal </label>
+              <label className=" text-lg lg:text-xl">VehicleModel </label>
               <input
                 className="px-3 py-1 border-2 border-green-500 ml-2 sm:ml-10 lg:ml-11"
                 type="text"
