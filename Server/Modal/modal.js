@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-const vehicleDetails = mongoose.Schema({
+const vehicleDetails = new mongoose.Schema({
   vehicleName: {
     type:String,
     required: true
