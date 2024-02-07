@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Dokdo&family=Merriweather&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Dokdo&family=Josefin+Sans&family=Merriweather&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
