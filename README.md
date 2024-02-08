@@ -1,6 +1,9 @@
-Forntend url ==> https://65c47768eef9f03dac149a39--vermillion-kitten-3ab1e4.netlify.app
+<h1>Please Read The Discription And Following Interctions:</h1>
+
+Step 1 => Please first click  server url https://vehilceinfoapplication-backend.onrender.com
+
+Step 2 => Please be patient as the website may take around 40 to 50 seconds to load. This delay is inherent to the site's loading process and not a result of any issues on your end. Your patience will be rewarded once the page finishes loading, granting you access to the content you seek. This sequential loading process ensures that the server site fully renders its content before navigating to the client site, ensuring a smooth transition and optimal user experience. Loading times may vary based on factors like internet speed and server performance, but allowing ample time for the server site to load ensures a seamless browsing experience for all users accessing the client site.
+
+Step 4 =>  ==> clent site url: https://65c47768eef9f03dac149a39--vermillion-kitten-3ab1e4.netlify.app
 
 
-
-Please be patient as the website may take some time to load, typically around 40 to 50 seconds. This delay is not a result of any issues on your end but rather a characteristic of the site's loading process. Rest assured, your patience will be rewarded with access to the content you're seeking once the page finishes loading. Thank you for your understanding and cooperation.
-Backend url ===>https://vehilceinfoapplication-backend.onrender.com
