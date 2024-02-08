@@ -5,7 +5,8 @@
 
 <h3>Step 2</h3> => Please first click  server url https://vehilceinfoapplication-backend.onrender.com
 
-<h3>Step 3</h3> => Please be patient as the website may take around 40 to 50 seconds to load. This delay is inherent to the site's loading process and not a result of any issues on your end. <br />
+<h3>Step 3</h3> => Please be patient as the website may take around 40 to 50 seconds to load. This delay is inherent to the site's loading process and not a result of any issues on your end.
+<br />
 
 Your patience will be rewarded once the page finishes loading, granting you access to the content you seek. 
 
