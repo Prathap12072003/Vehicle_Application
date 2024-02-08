@@ -1,9 +1,6 @@
 <h1>Vehicle info.com</h1>
 <h3> Our platform is meticulously crafted to serve as a dedicated repository for all your vehicle data, encompassing essential details like the vehicle name, model, number plate and type</h3>
 <br />
-<br />
-
-
 <h1>Please Read The Discription And Following Interctions:</h1>
 
 <h3>Step 2</h3> => Please first click  server url https://vehilceinfoapplication-backend.onrender.com
