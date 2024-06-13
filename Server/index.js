@@ -8,7 +8,9 @@ const ex=express();
 ex.use(cors())
 ex.use(express.json())
 ex.use('/vehicle',route)
-mongoose.connect("mongodb+srv://prathap12072002:ZOpBt4YSF7Gk0Wje@cluster0.jw9kncc.mongodb.net/vehilcesdata")
+mongoose.connect("mongodb+srv://prathap6047:FSVO3d7xg4wtceDm@cluster0.f80a0fz.mongodb.net/vehilcesdata")
+// FSVO3d7xg4wtceDm
+
 // (String(process.env.MONGO_DB_URL))
 .then(
     console.log('Db connect succesfull....'),
