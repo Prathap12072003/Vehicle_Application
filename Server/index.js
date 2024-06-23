@@ -14,7 +14,7 @@ mongoose.connect("mongodb+srv://prathap6047:FSVO3d7xg4wtceDm@cluster0.f80a0fz.mo
 // (String(process.env.MONGO_DB_URL))
 .then(
     console.log('Db connect succesfull....'),
-    ex.listen(5000,()=>{console.log('server connected...')})
+    ex.listen(5000,()=>{console.log('Server connected...')})
 
 )
 
